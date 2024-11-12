@@ -10,7 +10,7 @@
     "dev": "nodemon server.js",
     "build": "npm install && cd client && yarn install && yarn build"
   },
-  "author": "Shiwei Ge",
+  "author": "Shiwei Ge, Jiawei He, Zheng Han",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.2.0",
